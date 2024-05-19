@@ -10,7 +10,7 @@ public class PruebaController {
 
   @GetMapping("prueba")
   public void prueba() {
-      System.out.println("Prueba Rescontroller con Token");
+      System.out.println("Prueba Rescontroller");
   }
 
   
